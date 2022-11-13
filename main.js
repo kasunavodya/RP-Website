@@ -42,9 +42,9 @@ function submitForm(e) {
 function senMail(name, email, message) {
   Email.send({
     Host: "smtp.gmail.com",
-    Username: "prabathshalitha21@gmail.com",
+    Username: "kasunavodya@gmail.com",
     Password: "hcobmxemywjdnccd",
-    To: "prabathshalitha21@gmail.com",
+    To: "kasunavodya@gmail.com",
     From: email,
     Subject: `${name} sent an Email`,
     Body: message,

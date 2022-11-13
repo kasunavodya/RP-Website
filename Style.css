@@ -324,7 +324,7 @@ footer {
 }
 
 #contacts_us {
-  background: linear-gradient(rgba(88, 86, 86, 0), rgba(98, 98, 100, 0.8)),url(images/acg.jpg) no-repeat;
+  background: linear-gradient(rgba(88, 86, 86, 0), rgba(98, 98, 100, 0.8)),url(images/contact.webp) no-repeat;
   background-size: cover;
   background-position: center;
   padding: 40px;
